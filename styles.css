@@ -1,5 +1,5 @@
 body {
-    background-image: url('/img/space-bg.jpeg'); /* Replace with your image path */
+    background-image: url('img/space-bg.jpeg'); /* Replace with your image path */
     background-size: cover; /* This ensures the image covers the entire body */
     background-position: center; /* This centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -11,7 +11,7 @@ body {
 
 .header {
     height: 25vh; /* Full viewport height */
-    background-image: url('/img/360_F_87237301_XRl32e0GQwKXU5p07ZV08vhm0k8JubiH.jpg'); /* Replace with your image path */
+    background-image: url('img/360_F_87237301_XRl32e0GQwKXU5p07ZV08vhm0k8JubiH.jpg'); /* Replace with your image path */
     background-size: cover; /* Cover the entire header area */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Don't repeat the image */
